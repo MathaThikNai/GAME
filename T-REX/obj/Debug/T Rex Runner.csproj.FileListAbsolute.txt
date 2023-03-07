@@ -1,0 +1,29 @@
+C:\Users\Soni\Downloads\T-Rex-Endless-Runner-Game-in-Windows-Form-main\T-Rex-Runner-Game-in-Windows-Form-main\T Rex Runner\bin\Debug\T Rex Runner.exe
+C:\Users\Soni\Downloads\T-Rex-Endless-Runner-Game-in-Windows-Form-main\T-Rex-Runner-Game-in-Windows-Form-main\T Rex Runner\bin\Debug\T Rex Runner.pdb
+C:\Users\Soni\Downloads\T-Rex-Endless-Runner-Game-in-Windows-Form-main\T-Rex-Runner-Game-in-Windows-Form-main\T Rex Runner\obj\Debug\T Rex Runner.csproj.AssemblyReference.cache
+C:\Users\Soni\Downloads\T-Rex-Endless-Runner-Game-in-Windows-Form-main\T-Rex-Runner-Game-in-Windows-Form-main\T Rex Runner\obj\Debug\T_Rex_Runner.Properties.Resources.resources
+C:\Users\Soni\Downloads\T-Rex-Endless-Runner-Game-in-Windows-Form-main\T-Rex-Runner-Game-in-Windows-Form-main\T Rex Runner\obj\Debug\T Rex Runner.csproj.GenerateResource.cache
+C:\Users\Soni\Downloads\T-Rex-Endless-Runner-Game-in-Windows-Form-main\T-Rex-Runner-Game-in-Windows-Form-main\T Rex Runner\obj\Debug\T Rex Runner.csproj.CoreCompileInputs.cache
+C:\Users\Soni\Downloads\T-Rex-Endless-Runner-Game-in-Windows-Form-main\T-Rex-Runner-Game-in-Windows-Form-main\T Rex Runner\obj\Debug\T Rex Runner.exe
+C:\Users\Soni\Downloads\T-Rex-Endless-Runner-Game-in-Windows-Form-main\T-Rex-Runner-Game-in-Windows-Form-main\T Rex Runner\obj\Debug\T Rex Runner.pdb
+C:\Users\Soni\Downloads\T-Rex-Endless-Runner-Game-in-Windows-Form-main\T-Rex-Runner-Game-in-Windows-Form-main\T Rex Runner\obj\Debug\T_Rex_Runner.trex1.resources
+X:\Project\New folder\trex runner1\bin\Debug\T Rex Runner.exe
+X:\Project\New folder\trex runner1\bin\Debug\T Rex Runner.pdb
+X:\Project\New folder\trex runner1\obj\Debug\T Rex Runner.csproj.AssemblyReference.cache
+X:\Project\New folder\trex runner1\obj\Debug\T Rex Runner.csproj.SuggestedBindingRedirects.cache
+X:\Project\New folder\trex runner1\obj\Debug\T_Rex_Runner.trex1.resources
+X:\Project\New folder\trex runner1\obj\Debug\T_Rex_Runner.Properties.Resources.resources
+X:\Project\New folder\trex runner1\obj\Debug\T Rex Runner.csproj.GenerateResource.cache
+X:\Project\New folder\trex runner1\obj\Debug\T Rex Runner.csproj.CoreCompileInputs.cache
+X:\Project\New folder\trex runner1\obj\Debug\T Rex Runner.exe
+X:\Project\New folder\trex runner1\obj\Debug\T Rex Runner.pdb
+X:\Project\T rex\trex runner1\bin\Debug\T Rex Runner.exe
+X:\Project\T rex\trex runner1\bin\Debug\T Rex Runner.pdb
+X:\Project\T rex\trex runner1\obj\Debug\T Rex Runner.csproj.AssemblyReference.cache
+X:\Project\T rex\trex runner1\obj\Debug\T Rex Runner.csproj.SuggestedBindingRedirects.cache
+X:\Project\T rex\trex runner1\obj\Debug\T_Rex_Runner.trex1.resources
+X:\Project\T rex\trex runner1\obj\Debug\T_Rex_Runner.Properties.Resources.resources
+X:\Project\T rex\trex runner1\obj\Debug\T Rex Runner.csproj.GenerateResource.cache
+X:\Project\T rex\trex runner1\obj\Debug\T Rex Runner.csproj.CoreCompileInputs.cache
+X:\Project\T rex\trex runner1\obj\Debug\T Rex Runner.exe
+X:\Project\T rex\trex runner1\obj\Debug\T Rex Runner.pdb
